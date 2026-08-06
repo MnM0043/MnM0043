@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MnM0043
+- 👋 Hi, I’m Mohit
 - 👀 I’m interested in Data Analytics
 - 📫 How to reach me m.mohit4395@gmail.com
 <!---
